@@ -28,5 +28,4 @@
 
 <h3 align="left">Demo repos: </h3>
 <a href="https://github.com/YasharHTML/nestjs_graphql_mongodb_application"> Nestjs Graphql Mongo App </a>
-<hr>
 <a href="https://github.com/YasharHTML/nestjs_banking_application_demo"> Nestjs Banking application with Message Broker, Kubernetes, Multiple apps  </a>
